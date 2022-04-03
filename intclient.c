@@ -1,8 +1,6 @@
 /*
- *			intclient.c
+ *		intclient.c
  *		AUTHOR: Riley Mosca
- *    STUDENT NUMBER: 45358195
- *	COURSE: CSSE2310 - Assignment 4
  *	
  */
 
